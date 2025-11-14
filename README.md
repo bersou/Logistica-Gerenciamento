@@ -11,15 +11,15 @@ Este é um projeto de portfólio de um Dashboard de Logística completo, constru
 
 | Dashboard Principal (com Chatbot) | Cadastro de Perfil (com Upload) |
 | :---: | :---: |
-| ![Dashboard com KPI e Chatbot](./screenshots/Gerenciamento%20De%20Logistica%20Online%20(1).png) | ![Cadastro de Perfil com Foto](./screenshots/Gerenciamento%20De%20Logistica%20Online%20(10).png) |
+| ![Dashboard com KPI e Chatbot](./Gerenciamento%20De%20Logistica%20Online%20(1).png) | ![Cadastro de Perfil com Foto](./Gerenciamento%20De%20Logistica%20Online%20(10).png) |
 
 | Página de Clientes (com Logos e Pop-ups) | Mapa de Rotas (Localizado) |
 | :---: | :---: |
-| ![Página de Clientes com Logos](./screenshots/Gerenciamento%20De%20Logistica%20Online%20(7).png) | ![Mapa de Rotas](./screenshots/Gerenciamento%20De%20Logistica%20Online%20(6).jpg) |
+| ![Página de Clientes com Logos](./Gerenciamento%20De%20Logistica%20Online%20(7).png) | ![Mapa de Rotas](./Gerenciamento%20De%20Logistica%20Online%20(6).jpg) |
 
 | Pop-ups Interativos (KPIs e Detalhes) | Tabela de Entregas |
 | :---: | :---: |
-| ![Pop-up de Detalhes de Entrega](./screenshots/Gerenciamento%20De%20Logistica%20Online%20(9).png) | ![Tabela de Entregas](./screenshots/Gerenciamento%20De%20Logistica%20Online%20(5).png) |
+| ![Pop-up de Detalhes de Entrega](./Gerenciamento%20De%20Logistica%20Online%20(9).png) | ![Tabela de Entregas](./Gerenciamento%20De%20Logistica%20Online%20(5).png) |
 
 ---
 
