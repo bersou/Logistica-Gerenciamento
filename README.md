@@ -15,7 +15,7 @@ Este é um projeto de portfólio de um Dashboard de Logística completo, constru
 
 | Página de Clientes (com Logos e Pop-ups) | Mapa de Rotas (Localizado) |
 | :---: | :---: |
-| ![Página de Clientes com Logos](./Gerenciamento%20De%20Logistica%20Online%20(7).png) | ![Mapa de Rotas](./Gerenciamento%20De%20Logistica%20Online%20(6).jpg) |
+| ![Página de Clientes com Logos](./Gerenciamento%20De%20Logistica%20Online%20(7).png) | ![Mapa de Rotas](./mapa-rotas.jpg) |
 
 | Pop-ups Interativos (KPIs e Detalhes) | Tabela de Entregas |
 | :---: | :---: |
