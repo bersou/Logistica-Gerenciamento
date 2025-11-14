@@ -1,7 +1,8 @@
 # 🚀 Express Logistic: Dashboard de Gerenciamento
 (Projeto de Portfólio)
 
-**Link do Projeto (Live):** [https://logistica-gerenciamento.vercel.app/]
+🔗 [Acesse a versão ao vivo](https://logistica-gerenciamento.vercel.app/)
+
 
 Este é um projeto de portfólio de um Dashboard de Logística completo, construído do zero com Vue.js e Vuetify. O objetivo foi criar um SaaS (Software as a Service) 100% interativo e responsivo, capaz de gerenciar clientes, entregas e perfis de usuário, tudo conectado a um banco de dados real na nuvem (Supabase).
 
